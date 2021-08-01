@@ -15,7 +15,7 @@ To study the flow of traffic, identify crucial elements such as cars, traffic li
 
 This is a simple environment requiring opencv and the haarcascade_cars.xml file. 
 
-The haarcascade file can be downloaded from ![clicking here](media/haarcascade_car.xml)
+The haarcascade file can be downloaded from [clicking here](media/haarcascade_car.xml)
 
 To install the opencv use the following command
 
