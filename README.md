@@ -3,7 +3,7 @@
 ## Objective
 
 
-![Output 1](media/output ss1.jpeg) ![Output 1](media/output ss2.jpeg)
+![Output 1](media/outputss1.jpeg) ![Output 1](media/outputss2.jpeg)
 
 
 
